@@ -1,0 +1,17 @@
+{
+  "ip": "8.8.8.8",
+  "headers": {
+    "Accept-Language": "en-US,en;q=0.8",
+    "Host": "headers.jsontest.com",
+    "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  },
+  "time": "03:53:25 AM",
+  "milliseconds_since_epoch": 1362196405309,
+  "date": "03-02-2013",
+  "object_or_array": "object",
+  "empty": false,
+  "parse_time_nanoseconds": 19608,
+  "validate": true,
+  "size": 1
+}
